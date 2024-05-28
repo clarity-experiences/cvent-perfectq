@@ -1,0 +1,7 @@
+@font-face {
+    font-family: BrandonText;
+    font-stretch: normal;
+    src: url("/assets/BrandonText400.woff2") format('woff2');
+    font-weight: 400;
+    font-display: swap
+}
