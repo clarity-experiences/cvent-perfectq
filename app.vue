@@ -80,7 +80,7 @@ export default {
 		<Link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon.png"></Link>
 		<Link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"></Link>
 		<Link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"></Link>
-		<Meta name="theme-color" content="#7ffd00"></Meta>
+		<Meta name="theme-color" content="#19369a"></Meta>
 	</Head>
 <div>
 	<div class="header" @click="reset()">
