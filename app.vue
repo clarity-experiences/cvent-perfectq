@@ -76,7 +76,7 @@ export default {
 
 <template>
 	<Head>
-		<Title>CONNECT24 Perfect Cues</Title>
+		<Title>CONNECT25 Perfect Cues</Title>
 		<Link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon.png"></Link>
 		<Link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"></Link>
 		<Link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"></Link>
